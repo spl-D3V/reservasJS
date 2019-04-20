@@ -1,0 +1,24 @@
+{
+  "name": "reservasjs",
+  "version": "1.0.0",
+  "description": "aplicacion para gestionar reservas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spl-D3V/reservasJS.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "vue"
+  ],
+  "author": "spedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spl-D3V/reservasJS/issues"
+  },
+  "homepage": "https://github.com/spl-D3V/reservasJS#readme"
+}
