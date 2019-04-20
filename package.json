@@ -4,7 +4,8 @@
   "description": "aplicacion para gestionar reservas",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/spl-D3V/reservasJS/issues"
   },
-  "homepage": "https://github.com/spl-D3V/reservasJS#readme"
+  "homepage": "https://github.com/spl-D3V/reservasJS#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
 }
